@@ -229,7 +229,7 @@ p {
   -ms-user-select: none;
   user-select: none;
   padding: 18px 38px;
-  font-size: 18px;
+  font-size: 20px;
   border-radius: 50px;
   color: #fff;
   cursor: pointer;
@@ -246,7 +246,7 @@ p {
 }
 
 .main-btn.border-btn {
-  border: 2px solid #5864FF;
+  border: 3px solid #5864FF;
   background: transparent;
   color: #5864FF;
 }
@@ -719,8 +719,8 @@ p {
 }
 
 .navbar-nav .nav-item a {
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 600;
   color: #fff;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
@@ -732,11 +732,11 @@ p {
 .navbar-nav .nav-item a::before {
   content: "";
   position: absolute;
-  height: 5px;
+  height: 4px;
   width: 0;
   border-radius: 16px;
   background: #fdd446;
-  bottom: 15px;
+  bottom: 8px;
   left: 0;
   z-index: -1;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -820,7 +820,7 @@ p {
 
 .hero-section .hero-content p {
   margin-bottom: 40px;
-  font-size: 18px;
+  font-size: 25px;
   line-height: 28px;
   color: #fff;
 }
